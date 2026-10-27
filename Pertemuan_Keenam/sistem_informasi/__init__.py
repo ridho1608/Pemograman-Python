@@ -1,0 +1,1 @@
+"""Package sistem informasi akademik."""
